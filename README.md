@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Didier</h1>
 <h3 align="center">A passionate frontend developer from Kigali-Rwanda</h3>
 
-<img align="right" src="![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)">
+<img align="right" width="700" alt='developing'src="![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)">
 <p align="left"> <a href="https://twitter.com/https://twitter.com/didier_shema_3" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/didier_shema_3?logo=twitter&style=for-the-badge" alt="https://twitter.com/didier_shema_3" /></a> </p>
 
 - 📫 How to reach me **didiershemagate01@gmail.com**

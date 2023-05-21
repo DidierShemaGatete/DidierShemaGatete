@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Didier</h1>
 <h3 align="center">A passionate frontend developer from Kigali-Rwanda</h3>
 
-<img align="right" alt="codinglife"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fdommespace-domme-space-programador-qgQUggAC3Pfv687qPC&psig=AOvVaw1aubYrx7f52t69WrZLY3uR&ust=1684742743531000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjxxff5hf8CFQAAAAAdAAAAABAE" >
+<img align="right" alt="codinglife"width="400" src="![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/4abe5761-9580-42ce-87fa-2d2ad47e1ed2)
+ >
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/didier_shema_3" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/didier_shema_3?logo=twitter&style=for-the-badge" alt="https://twitter.com/didier_shema_3" /></a> </p>
 

@@ -24,4 +24,4 @@
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=didiershemagatete&show_icons=true&locale=en" alt="didiershemagatete" />
  </div>
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=didiershemagatete&" alt="didiershemagatete" /></div>
+<div style="margin: 3rem"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=didiershemagatete&" alt="didiershemagatete" /></div>

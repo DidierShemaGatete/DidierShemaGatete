@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Didier / David</h1>
 <h3 align="center">A passionate Software Developer from Kigali-Rwanda</h3>
 
-<img align="right" alt='developing'src="![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)">
+<img align="right" alt='developing' width="700px" src="![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)">
 <p align="left"> <a href="https://twitter.com/https://twitter.com/didier_shema_3" target="blank"></a><img src="https://img.shields.io/twitter/follow/https://twitter.com/didier_shema_3?logo=twitter&style=for-the-badge" alt="https://twitter.com/didier_shema_3" /> </p>
 
 - 📫 How to reach me **didiershemagate01@gmail.com**

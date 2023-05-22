@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Didier_shema_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/didier_shema_3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/didier shema gatete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="didier shema gatete" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/didier shema gatete" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1642699161211478017/35n5UjWg_400x400.jpg" alt="didier shema gatete](https://pbs.twimg.com/profile_images/1642699161211478017/35n5UjWg_400x400.jpg)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

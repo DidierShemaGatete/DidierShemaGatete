@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Didier</h1>
+<h1 align="center">Hi 👋, I'm Didier / David</h1>
 <h3 align="center">A passionate Software Developer from Kigali-Rwanda</h3>
 
 <img align="right" alt='developing'src="![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)">

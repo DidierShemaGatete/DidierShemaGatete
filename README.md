@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Didier / David</h1>
 <h3 align="left">A passionate Software Developer from Kigali-Rwanda</h3>
 
-<div> <img src=["![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)"](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)></div>
+ <img src=["![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)"](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)>
 <p align="left"> <a href="https://twitter.com/Didier_shema_3" target="blank"></a><img src="https://img.shields.io/twitter/follow/https://twitter.com/didier_shema_3?logo=twitter&style=for-the-badge" alt="https://twitter.com/didier_shema_3" /> </p>
 
 - 📫 How to reach me **didiershemagate01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Didier_shema_3" target="blank"><img align="center" src="" alt="https://twitter.com/didier_shema_3" height="30" width="40" />
-<a href="https://linkedin.com/in/didier shema gatete" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1642699161211478017/35n5UjWg_400x400.jpg" alt="didier shema gatete](https://pbs.twimg.com/profile_images/1642699161211478017/35n5UjWg_400x400.jpg)" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/didier shema gatete" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1642699161211478017/35n5UjWg_400x400.jpg" alt="didier shema gatete](https://pbs.twimg.com/profile_images/1642699161211478017/35n5UjWg_400x400.jpg)" height="30" width="40" /></a>
+  <a href="https://twitter.com/Didier_shema_3" target="blank"><img align="center" src="" alt="https://twitter.com/didier_shema_3" height="30" width="40" />
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

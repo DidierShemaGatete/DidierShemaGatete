@@ -2,8 +2,8 @@
 <h3 align="left">A passionate Software Developer from Kigali-Rwanda</h3>
 
  <img src=["![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)"](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)>
-<p align="left"> <a href="https://twitter.com/Didier_shema_3" target="blank"></a><img src="[https://img.shields.io/twitter/follow/https://twit![twitter icon](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/66070e72-f217-4f27-a575-0aa619cbf820)
-)" alt="https://twitter.com/didier_shema_3" /> </p>
+<p align="left"> <a href="https://twitter.com/Didier_shema_3" target="blank"></a><img src=![twitter icon](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/a3d13fac-49f6-455c-9dd1-8fa58a00c6b2)
+"" alt="https://twitter.com/didier_shema_3" /> </p>
 
 - 📫 How to reach me **didiershemagate01@gmail.com**
 

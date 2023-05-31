@@ -3,7 +3,7 @@
 
  <img src=["![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)"](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)>
 
-</a><img src=""> <a href="https://twitter.com/Didier_shema_3" target="blank">
+</a><img src="https://icons8.com/icon/13963/twitter"> <a href="https://twitter.com/Didier_shema_3" target="blank">
 
 - 📫 Reach me at **didiershemagate01@gmail.com**
 

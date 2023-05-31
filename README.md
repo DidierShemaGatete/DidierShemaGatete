@@ -9,6 +9,8 @@
 <p align="left">
     <a href="https://linkedin.com/in/didier shema gatete" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1642699161211478017/35n5UjWg_400x400.jpg" alt="didier shema gatete" height="100" width="100" /></a>
  <p>
+  
+  <h3 align="left">twitter:</h3>
   <a href="https://twitter.com/Didier_shema_3" target="blank"><img align="center" src="" alt="https://twitter.com/didier_shema_3" height="30" width="40" </a> </p>
 
 

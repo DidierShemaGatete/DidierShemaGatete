@@ -3,14 +3,14 @@
 
  <img src=["![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)"](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)>
 
-</a><img src="https://icons8.com/icon/13963/twitter"> <a href="https://twitter.com/Didier_shema_3" target="blank">
-
 - 📫 Reach me at **didiershemagate01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/didier shema gatete" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1642699161211478017/35n5UjWg_400x400.jpg" alt="didier shema gatete" height="100" width="100" /></a>
-  <a href="https://twitter.com/Didier_shema_3" target="blank"><img align="center" src="" alt="https://twitter.com/didier_shema_3" height="30" width="40" />
+ <p>
+  <a href="https://twitter.com/Didier_shema_3" target="blank"><img align="center" src="" alt="https://twitter.com/didier_shema_3" height="30" width="40" </a> </p>
+
 
 </p>
 

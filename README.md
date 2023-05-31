@@ -5,9 +5,9 @@
 
 - 📫 Reach me at **didiershemagate01@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on linkedin:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/didier shema gatete" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1642699161211478017/35n5UjWg_400x400.jpg" alt="didier shema gatete" height="100" width="100" /></a>
+    <a href="https://www.linkedin.com/in/didier-shema-gatete-6b0036255/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1642699161211478017/35n5UjWg_400x400.jpg" alt="didier shema gatete" height="100" width="100" /></a>
  <p>
   
   <h3 align="left">twitter:</h3>

@@ -5,7 +5,7 @@
 
 - 📫 Reach me at:   **didiershemagate01@gmail.com**
 
-<h3 align="left">connect with me?     CLICK IMAGE👇🏻:</h3>
+<h3 align="left">Connect with me?     CLICK IMAGE👇🏻:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/didier-shema-gatete-6b0036255/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1642699161211478017/35n5UjWg_400x400.jpg" alt="didier shema gatete" height="100" width="100" /></a>
  <p>

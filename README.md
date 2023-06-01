@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/didier-shema-gatete-6b0036255/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1642699161211478017/35n5UjWg_400x400.jpg" alt="didier shema gatete" height="100" width="100" /></a>
  <p>
   
-  <h3 align="left">twitter:</h3> <a href="https://twitter.com/Didier_shema_3" target="blank">
+  <h3 align="left">twitter: https://twitter.com/Didier_shema_3 </h3>  <a href="https://twitter.com/Didier_shema_3" target="blank">
  
  
 

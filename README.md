@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Didier / David</h1>
+<h1 align="center">Hi 👋, I'm Didier / David Shema</h1>
 <h3 align="left">A passionate Software Developer from Kigali-Rwanda</h3>
 
  <img src=["![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)"](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)>
 
 - 📫 Reach me at:   **didiershemagate01@gmail.com**
 
-<h3 align="left">Connect with me on linkedin, click on image👇🏻:</h3>
+<h3 align="left">click on image👇, to connect on🏻:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/didier-shema-gatete-6b0036255/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1642699161211478017/35n5UjWg_400x400.jpg" alt="didier shema gatete" height="100" width="100" /></a>
  <p>

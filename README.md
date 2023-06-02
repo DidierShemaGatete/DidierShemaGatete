@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Didier / David Shema</h1>
-<h3 align="left">A passionate Software Developer from Kigali-Rwanda</h3>
+<h3 align="left">A passionate Software Developer based in Kigali-Rwanda</h3>
 
  <img src=["![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)"](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)>
 

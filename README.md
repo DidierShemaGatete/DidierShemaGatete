@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Didier / David Shema</h1>
 <h3 align="center">A Passionate Software Developer based in Kigali-Rwanda</h3>
 
-![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)
+<div align="center"![codinglife gig](https://github.com/DidierShemaGatete/DidierShemaGatete/assets/122377873/9a6549cf-cd01-453d-a0ae-84fb796c5b68)</div>
 - 📫 Reach me at:   **didiershemagate01@gmail.com**
 
 <h3 align="left">Connect with me?     CLICK IMAGE👇🏻:</h3>
